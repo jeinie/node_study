@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "querystring": "^0.2.1",
+    "url": "^0.11.0"
+  },
+  "name": "test",
+  "description": "안녕하세요.",
+  "version": "1.0.0",
+  "main": "0823_study_04.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "장정윤",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
